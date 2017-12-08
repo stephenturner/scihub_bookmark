@@ -1,6 +1,6 @@
 **Javascript bookmarklet for Sci-Hub**
 
-The [Javascript code](scihub_bookmark.js) will insert `.sci-hub.cc` into the URL of your current tab and reload the page.
+The [Javascript code](scihub_bookmark.js) will insert `.sci-hub.tw` into the URL of your current tab and reload the page.
 
 To use, create a new bookmark and paste the Javascript code into the address box. If you do not have access to a paper, clicking the bookmark will reload the page using Sci-Hub.
 
