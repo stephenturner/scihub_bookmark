@@ -8,4 +8,4 @@ To use, create a new bookmark and paste the Javascript code into the address box
 javascript:location.href = location.origin.replace(/^https/, 'http') + '.sci-hub.cc' + location.pathname + location.search
 ```
 
-Or just drag this link to your bookmark bar: **<a href="javascript:location.href = location.origin.replace(/^https/, 'http') + '.sci-hub.cc' + location.pathname + location.search">scihub</a>**.
+Or just drag this link to your bookmark bar: **<a href="javascript:location.href = location.origin.replace(/^https/, 'http') + '.sci-hub.tw' + location.pathname + location.search">scihub</a>**.
